@@ -328,12 +328,12 @@ Through this project, I enhanced my skills in:
 ---
 
 ## 📷 Dashboard Preview
-<img width="1920" height="1080" alt="Executive View" src="https://github.com/user-attachments/assets/a76a5e4e-24bb-4840-ae95-b68c785c8063" />
-<img width="1920" height="1080" alt="Regional   Customer Performance Analysis" src="https://github.com/user-attachments/assets/162a3749-4d4f-4d7c-9e87-2bb1b4431795" />
-<img width="1920" height="1080" alt="Fleet Utilisation   Asset Performance" src="https://github.com/user-attachments/assets/6f21661e-4f71-4aa3-ace7-aa0879e5a157" />
-<img width="1920" height="1080" alt="Lost Opportunities   Strategic Recommendations" src="https://github.com/user-attachments/assets/d93d91a9-cf9b-4f29-9f1e-0b365a370254" />
-<img width="1920" height="1080" alt="Insights" src="https://github.com/user-attachments/assets/bcb65746-01cc-41ed-aa21-7b7f20d916cc" />
 
+<img width="1574" height="771" alt="Executive View" src="https://github.com/user-attachments/assets/2b5c5028-1d38-47ca-89a4-f8e3762cef28" />
+<img width="1592" height="781" alt="Regional   Customer Performance Analysis" src="https://github.com/user-attachments/assets/41448348-5095-46bb-b32b-ee7193ea147d" />
+<img width="1549" height="779" alt="Fleet Utilisation   Asset Performance" src="https://github.com/user-attachments/assets/861a3696-0678-4be2-8b47-8aa8ca8b2744" />
+<img width="1592" height="767" alt="Lost Opportunities   Strategic Recommendations" src="https://github.com/user-attachments/assets/168a1c95-4925-4edd-a90d-9762b05394d7" />
+<img width="1451" height="682" alt="Insights" src="https://github.com/user-attachments/assets/5c801068-1562-4719-9001-b56fda461988" />
 
 ## 👨‍💻 Author
 
